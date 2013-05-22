@@ -1,0 +1,20 @@
+{
+  "name": "node_d3",
+  "version": "0.0.0",
+  "description": "A sandbox for d3 projects using a node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"mocha --reporter nyan\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josankapo/node_d3.git"
+  },
+  "keywords": [
+    "d3",
+    "node",
+    "sandbox"
+  ],
+  "author": "Jonathan Gabel",
+  "license": "MIT"
+}
